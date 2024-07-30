@@ -21,7 +21,7 @@ Explore our [Pitch Deck](https://www.canva.com/design/DAGL5daLMdI/9-OlXiD58-HyMl
 Check out our [Demo](https://www.loom.com/share/91a0503300c1408cb0d2531195dcb92d?sid=7489232b-6147-458b-9134-80b51285c7fe) to see TokenBot in action.
 
 ## Live Preview
-[![Token Bot preview](https://github.com/Bratipah/TokenBot/blob/main/assets/VID-20240505-WA0016.mp4)](https://github.com/Bratipah/TokenBot/blob/main/assets/VID-20240505-WA0016.mp4)
+[![Token Bot preview](https://github.com/Bratipah/TokenBot/blob/main/assets/VID-20240505-WA0016.mp4)](https://github.com/Bratipah/TokenBot/blob/main/assets/9bafa300-e9dc-11ee-b72f-edd16fe6351cavator.jpg)
 
 ## Get Started
 
